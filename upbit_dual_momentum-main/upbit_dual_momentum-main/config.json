@@ -1,0 +1,16 @@
+{
+    "upbit": {
+        "access_key": "vESU4JPUn00QjaAJYDWVxeZxyqBRl5DeLfcD3KX2",
+        "secret_key": "mgx8IOfx5txxWGaeP4UDDvgYU7rKFY6iGNwmFtX2"
+    },
+    "telegram": {
+        "bot_token": "7613308976:AAGlDJ16CkL0K6B8qrIWx-vLP9yql2PDh4Q",
+        "channel_id": "7431556902"
+    },
+    "trading": {
+        "manual_holdings": ["BTC", "MANA"],
+        "exclude_coins": ["USDT", "USDC", "XRP", "FIL", "TRX", "LTC"],
+        "max_slots": 3,
+        "rebalancing_interval": 10080
+    }
+}

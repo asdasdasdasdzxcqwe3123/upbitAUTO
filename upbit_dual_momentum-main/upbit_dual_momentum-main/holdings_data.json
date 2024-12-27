@@ -1,0 +1,26 @@
+{
+    "holding_periods": {
+        "KRW-STPT": "2024-12-27T11:37:24.046387",
+        "KRW-HBAR": "2024-12-27T11:37:24.046396",
+        "KRW-W": "2024-12-27T11:40:51.449146"
+    },
+    "consecutive_holds": {
+        "KRW-STPT": 1,
+        "KRW-HBAR": 1,
+        "KRW-W": 1
+    },
+    "trade_conditions": {
+        "KRW-STPT": {
+            "stop_loss": null,
+            "take_profit": null
+        },
+        "KRW-HBAR": {
+            "stop_loss": null,
+            "take_profit": null
+        },
+        "KRW-W": {
+            "stop_loss": 414.35453970242355,
+            "take_profit": 444.46168255956644
+        }
+    }
+}
